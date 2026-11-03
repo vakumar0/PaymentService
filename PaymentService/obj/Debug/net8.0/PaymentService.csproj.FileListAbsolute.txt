@@ -1,0 +1,14 @@
+/Users/vaibhavkumar/netprojects/PaymentService/PaymentService/bin/Debug/net8.0/PaymentService
+/Users/vaibhavkumar/netprojects/PaymentService/PaymentService/bin/Debug/net8.0/PaymentService.deps.json
+/Users/vaibhavkumar/netprojects/PaymentService/PaymentService/bin/Debug/net8.0/PaymentService.runtimeconfig.json
+/Users/vaibhavkumar/netprojects/PaymentService/PaymentService/bin/Debug/net8.0/PaymentService.dll
+/Users/vaibhavkumar/netprojects/PaymentService/PaymentService/bin/Debug/net8.0/PaymentService.pdb
+/Users/vaibhavkumar/netprojects/PaymentService/PaymentService/obj/Debug/net8.0/PaymentService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vaibhavkumar/netprojects/PaymentService/PaymentService/obj/Debug/net8.0/PaymentService.AssemblyInfoInputs.cache
+/Users/vaibhavkumar/netprojects/PaymentService/PaymentService/obj/Debug/net8.0/PaymentService.AssemblyInfo.cs
+/Users/vaibhavkumar/netprojects/PaymentService/PaymentService/obj/Debug/net8.0/PaymentService.csproj.CoreCompileInputs.cache
+/Users/vaibhavkumar/netprojects/PaymentService/PaymentService/obj/Debug/net8.0/PaymentService.dll
+/Users/vaibhavkumar/netprojects/PaymentService/PaymentService/obj/Debug/net8.0/refint/PaymentService.dll
+/Users/vaibhavkumar/netprojects/PaymentService/PaymentService/obj/Debug/net8.0/PaymentService.pdb
+/Users/vaibhavkumar/netprojects/PaymentService/PaymentService/obj/Debug/net8.0/PaymentService.genruntimeconfig.cache
+/Users/vaibhavkumar/netprojects/PaymentService/PaymentService/obj/Debug/net8.0/ref/PaymentService.dll
